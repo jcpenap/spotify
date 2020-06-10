@@ -27,7 +27,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	color: #0a183d;
+	color: #28a745;
 	font-weight: 600;
 	line-height: 1;
 }
@@ -58,7 +58,7 @@ h6 {
 
 p {
 	font-size: 15px;
-	color: #6a7080;
+	color: #0c100d;
 	line-height: 1.8;
 	font-weight: 500;
 }
@@ -137,7 +137,7 @@ Commom elements
 	padding: 23px 20px;
 	border-radius: 50px;
 	text-transform: uppercase;
-	background: #fc0254;
+	background: #443137;
 	color: #fff;
 	line-height: normal;
 	cursor: pointer;
@@ -152,7 +152,7 @@ Commom elements
 	background: #383b70;
 }
 
-/* Preloder */
+/* Preloder  28a745*/
 
 #preloder {
 	position: fixed;
@@ -223,7 +223,7 @@ Header section
 .header-section {
 	padding-left: 55px;
 	padding-right: 72px;
-	background: #08192d;
+	background: #0a250e;
 }
 
 .site-logo {
@@ -254,7 +254,7 @@ Header section
 }
 
 .header-right .user-panel .register {
-	color: #fc0254;
+	color: #443137;
 	margin-right: 0;
 }
 
@@ -283,7 +283,7 @@ Header section
 }
 
 .main-menu li a:hover {
-	color: #fc0254;
+	color: #443137;
 }
 
 .main-menu li:first-child a {
@@ -326,7 +326,7 @@ Header section
 }
 
 .main-menu .sub-menu li a:hover {
-	color: #fc0254;
+	color: #443137;
 }
 
 .slicknav_menu {
@@ -334,7 +334,7 @@ Header section
 }
 
 /*------------------
-Hero section
+Hero section 28a745
  ---------------------*/
 
 .hero-section {
@@ -350,7 +350,7 @@ Hero section
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background: #0a183d;
+	background: #28a745;
 }
 
 .hs-item h2 {
@@ -364,7 +364,7 @@ Hero section
 }
 
 .hs-item h2 span {
-	color: #fc0254;
+	color: #443137;
 }
 
 .hs-item p {
@@ -452,7 +452,7 @@ Hero section
 }
 
 .hero-slider .owl-dots .owl-dot.active {
-	background: #fc0254;
+	background: #443137;
 }
 
 /* ----------------
@@ -469,7 +469,7 @@ How section
  -------------------*/
 
 .how-section {
-	background-color: #0a183d;
+	background-color: #28a745;
 }
 
 .how-item .hi-icon {
@@ -477,7 +477,7 @@ How section
 	width: 57px;
 	height: 57px;
 	border-radius: 50%;
-	background: #fc0254;
+	background: #443137;
 	margin-bottom: 25px;
 }
 
@@ -519,7 +519,7 @@ Subscription section
  -----------------------*/
 
 .subscription-section {
-	background: #0a183d;
+	background: #28a745;
 }
 
 .sub-text {
@@ -534,7 +534,7 @@ Subscription section
 }
 
 .sub-text h3 {
-	color: #fc0254;
+	color: #443137;
 	margin-bottom: 30px;
 	font-weight: 500;
 }
@@ -548,7 +548,7 @@ Subscription section
 
 .sub-list {
 	list-style: none;
-	background: #1c294a;
+	background: 155724;
 	padding: 70px 15px 50px 155px;
 	border-radius: 42px;
 }
@@ -596,7 +596,7 @@ Responsive
  -------------------*/
 
 .footer-section {
-	background: #0a183d;
+	background: #28a745;
 	padding: 100px 0 85px;
 }
 
@@ -617,7 +617,7 @@ Responsive
 
 .footer-widget ul li a {
 	display: inline-block;
-	color: #6a7080;
+	color: #0c100d;
 	font-size: 14px;
 	margin-bottom: 10px;
 }
@@ -632,7 +632,7 @@ Responsive
 
 .social-links a {
 	display: inline-block;
-	color: #6a7080;
+	color: #0c100d;
 	font-size: 18px;
 	margin-right: 35px;
 }
@@ -663,7 +663,7 @@ Playlist page
 	display: inline-block;
 	font-size: 15px;
 	font-weight: 500;
-	color: #6a7080;
+	color: #0c100d;
 	padding: 10px 6px 16px;
 	margin-right: 55px;
 	margin-bottom: 10px;
@@ -672,7 +672,7 @@ Playlist page
 }
 
 .playlist-filter li.mixitup-control-active {
-	border-bottom: 2px solid #fc0254;
+	border-bottom: 2px solid #443137;
 }
 
 .playlist-item {
@@ -714,7 +714,7 @@ Playlist page
 	border-radius: 80px;
 	color: #fff;
 	font-size: 15px;
-	background: #fc0254;
+	background: #443137;
 }
 
 /* ----------------
@@ -732,7 +732,7 @@ Blog page
 .blog-item .blog-date {
 	font-size: 12px;
 	font-weight: 600;
-	color: #fc0254;
+	color: #443137;
 	margin-bottom: 24px;
 }
 
@@ -758,7 +758,7 @@ Blog page
 }
 
 .site-pagination a {
-	color: #6a7080;
+	color: #0c100d;
 	font-size: 14px;
 	display: inline-block;
 	margin-right: 5px;
@@ -803,7 +803,7 @@ Contact page
 
 .contact-warp ul li {
 	font-size: 14px;
-	color: #0a183d;
+	color: #28a745;
 	font-size: 14px;
 	margin-bottom: 15px;
 	font-weight: 500;
@@ -819,7 +819,7 @@ Contact page
 	font-size: 14px;
 	font-weight: 500;
 	margin-bottom: 14px;
-	color: #6a7080;
+	color: #0c100d;
 	background: #f5f6fa;
 }
 
@@ -852,7 +852,7 @@ Category page
 	display: inline-block;
 	font-size: 15px;
 	font-weight: 500;
-	color: #6a7080;
+	color: #0c100d;
 	padding: 10px 6px 16px;
 	margin-right: 55px;
 	margin-bottom: 10px;
@@ -861,7 +861,7 @@ Category page
 }
 
 .category-links a.active {
-	border-bottom: 2px solid #fc0254;
+	border-bottom: 2px solid #443137;
 }
 
 .category-item {
@@ -906,7 +906,7 @@ Category page
 	height: 71px;
 	right: 29px;
 	bottom: 21px;
-	color: #fc0254;
+	color: #443137;
 	font-size: 16px;
 	text-align: center;
 	border-radius: 50%;
@@ -1000,7 +1000,7 @@ Category page
 }
 
 .jp-play {
-	background: #fc0254;
+	background: #443137;
 }
 
 .jp-play:after {
@@ -1067,7 +1067,7 @@ Category page
 .jp-current-time {
 	position: absolute;
 	font-size: 14px;
-	color: #0a183d;
+	color: #28a745;
 	right: -40px;
 	top: 100%;
 	padding-top: 15px;
@@ -1137,7 +1137,7 @@ Artest Page
 	top: calc(50% - 35px);
 	border: none;
 	border-radius: 50%;
-	color: #fc0254;
+	color: #443137;
 	background: #fff;
 }
 
@@ -1178,7 +1178,7 @@ Artest Page
 	right: 0;
 	bottom: 0;
 	font-size: 14px;
-	color: #0a183d;
+	color: #28a745;
 	font-weight: 500;
 	background: #fff;
 	padding-right: 2px;
@@ -1222,13 +1222,13 @@ Artest Page
 	float: left;
 	margin-right: 6px;
 	font-weight: 600;
-	color: #0a183d;
+	color: #28a745;
 }
 
 .song-details-box ul span {
 	display: block;
 	overflow: hidden;
-	color: #6a7080;
+	color: #0c100d;
 }
 
 .song-details-box .single_player_container {
@@ -1460,7 +1460,7 @@ Responsive
 		margin-top: -60px;
 	}
 	.slicknav_nav {
-		background: #1c294a;
+		background: 155724;
 		margin-bottom: 35px;
 	}
 	.slicknav_nav ul {
@@ -1473,13 +1473,13 @@ Responsive
 	}
 	.slicknav_nav a:hover {
 		border-radius: 0;
-		color: #fc0254;
+		color: #443137;
 		background: transparent;
 	}
 	.slicknav_btn {
 		position: relative;
 		top: -24px;
-		background: #1c294a;
+		background: 155724;
 	}
 	.main-menu {
 		display: none;
@@ -1596,7 +1596,7 @@ Responsive
 		margin-top: -60px;
 	}
 	.slicknav_nav {
-		background: #1c294a;
+		background: 155724;
 		margin-bottom: 35px;
 	}
 	.slicknav_nav ul {
@@ -1609,13 +1609,13 @@ Responsive
 	}
 	.slicknav_nav a:hover {
 		border-radius: 0;
-		color: #fc0254;
+		color: #443137;
 		background: transparent;
 	}
 	.slicknav_btn {
 		position: relative;
 		top: -24px;
-		background: #1c294a;
+		background: 155724;
 	}
 	.main-menu {
 		display: none;
